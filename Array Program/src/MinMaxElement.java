@@ -12,7 +12,7 @@ public class MinMaxElement {
 
         for(int i=0; i<size; i++){
             arr[i]=sc.nextInt();
-            System.out.print("Element of the array is:" + arr[i]);
+            System.out.print("Element of the arr is:" + arr[i]);
 
         }
 
